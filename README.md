@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calteran
-- 👀 I’m interested in ... coding, games, space travel, hiking, aviation, politics
-- 🌱 I’m currently learning ... Rust
-- 💞️ I’m looking to collaborate on ... meh, I just quit my job to take two years to work on personal projects.  I'm not against collaboration, but I'm not actively looking for it right now.
-- 📫 How to reach me ... @_calteran on Twitter, I suppose.
+- 👀 I’m interested in ... coding, data analytics, games, space travel, hiking, transportation
+- 🌱 I’m currently learning ... French
+- 💞️ I’m looking to collaborate on ... interesting problems, especially those that can be solved with Rust
+- 📫 How to reach me ... [https://robertc.me](https://robertc.me)
